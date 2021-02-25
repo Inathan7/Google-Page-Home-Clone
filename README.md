@@ -8,6 +8,6 @@ Clone da interface da Page Home do Google.
 
 ## :computer: Technologies
 
-[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[Expo Google Fonts](https://github.com/expo/google-fonts)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Expo Google Fonts](https://github.com/expo/google-fonts)
