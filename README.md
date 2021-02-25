@@ -4,4 +4,5 @@
 
 Clone da interface da Page Home do Google.
 
-![file:///C:/Users/maiar/Pictures/Screenshots/Captura%20de%20Tela%20(405).png](http://url/to/img.png)
+![Captura de Tela (405)](https://user-images.githubusercontent.com/57046315/109158843-a8537f00-7752-11eb-8353-5668bdb03a81.png)
+
